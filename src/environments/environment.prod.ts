@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  APIendpoint: 'https://wuhan-coronavirus-api.laeyoung.endpoint.ainize.ai/'
 };
